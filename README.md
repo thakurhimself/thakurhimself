@@ -50,6 +50,6 @@ Previously shipped **Easycheckin**, a cloud-based hotel check-in system that's l
 
 ## ⚡ Currently
 
-- 🏗️ Finishing Examly — nearing commercial launch
+- 🏗️ Finishing Qzar — nearing commercial launch
 - 🤖 Learning LLM API integration (Anthropic, Vercel AI SDK, RAG pipelines)
 - 👀 Open to fullstack / frontend roles at product companies and EdTech startups
