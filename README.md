@@ -43,7 +43,7 @@ Previously shipped **Easycheckin**, a cloud-based hotel check-in system that's l
 ## 📫 Get in touch
 
 - 📧 vipul.singh2211@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-handle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vipul-thakur-738291302)
 - 🌐 [Portfolio](http://vipulthakur.com)
 
 ---
