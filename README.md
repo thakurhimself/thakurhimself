@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Vipul
 
-**Fullstack developer · Next.js · TypeScript · Node.js**
+**Fullstack developer · Next.js · React · Javascript · TypeScript · Node.js**
 
 I build SaaS products end-to-end — from database schema to deployed UI.
 Currently building **Qzar**, a multi-portal exam management platform for coaching institutes.
