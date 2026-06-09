@@ -3,7 +3,7 @@
 **Fullstack developer · Next.js · TypeScript · Node.js**
 
 I build SaaS products end-to-end — from database schema to deployed UI.
-Currently building **Examly**, a multi-portal exam management platform for coaching institutes.
+Currently building **Qzar**, a multi-portal exam management platform for coaching institutes.
 Previously shipped **Easycheckin**, a cloud-based hotel check-in system that's live and serving customers.
 
 ---
